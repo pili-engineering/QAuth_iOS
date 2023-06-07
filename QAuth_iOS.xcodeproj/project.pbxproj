@@ -11,10 +11,11 @@
 		C94646F22A2DBE750026A7AB /* CL_ShanYanSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94646EC2A2DBE750026A7AB /* CL_ShanYanSDK.framework */; };
 		C94646F32A2DBE750026A7AB /* TYRZUISDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94646ED2A2DBE750026A7AB /* TYRZUISDK.framework */; };
 		C94646F52A2DBE750026A7AB /* sdk_oauth.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C94646EF2A2DBE750026A7AB /* sdk_oauth.bundle */; };
-		C94647152A2DD01A0026A7AB /* QNAuthSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94646E12A2DB0050026A7AB /* QNAuthSDK.framework */; };
 		C94647222A2F0DE80026A7AB /* PlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = C94647212A2F0DE80026A7AB /* PlayerView.m */; };
 		C94647322A30250F0026A7AB /* EAccountApiSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94646F12A2DBE750026A7AB /* EAccountApiSDK.framework */; };
 		C94647332A3025200026A7AB /* OAuth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94646F02A2DBE750026A7AB /* OAuth.framework */; };
+		C946473B2A3067410026A7AB /* QNAuthSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C946473A2A3067410026A7AB /* QNAuthSDK.framework */; };
+		C946473D2A3067AD0026A7AB /* account_login_sdk_noui_core.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C946473C2A3067AD0026A7AB /* account_login_sdk_noui_core.framework */; };
 		C95EC3DB2A20822A00153AD1 /* LottieLogo2.json in Resources */ = {isa = PBXBuildFile; fileRef = C95EC3DA2A20822A00153AD1 /* LottieLogo2.json */; };
 		C98D20B92A1B625300D24333 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C98D20B82A1B625300D24333 /* AppDelegate.m */; };
 		C98D20BC2A1B625300D24333 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C98D20BB2A1B625300D24333 /* SceneDelegate.m */; };
@@ -38,20 +39,9 @@
 		C9DF59802A2720A60038416C /* 颜色遮罩_x264.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C9DF597F2A2720A60038416C /* 颜色遮罩_x264.mp4 */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		C94646E02A2DB0050026A7AB /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = C94646DC2A2DB0050026A7AB /* QNAuthSDK.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = C9DF59902A28385F0038416C;
-			remoteInfo = QNAuthSDK;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
 		2FC75AE795ED3EE37F7892E0 /* Pods_QAuth_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QAuth_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A42B65D3D3EBEEEF028F3A4 /* Pods-QAuth_iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QAuth_iOS.release.xcconfig"; path = "Target Support Files/Pods-QAuth_iOS/Pods-QAuth_iOS.release.xcconfig"; sourceTree = "<group>"; };
-		C94646DC2A2DB0050026A7AB /* QNAuthSDK.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = QNAuthSDK.xcodeproj; path = ../QNAuthSDK/QNAuthSDK.xcodeproj; sourceTree = "<group>"; };
 		C94646EC2A2DBE750026A7AB /* CL_ShanYanSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CL_ShanYanSDK.framework; sourceTree = "<group>"; };
 		C94646ED2A2DBE750026A7AB /* TYRZUISDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TYRZUISDK.framework; sourceTree = "<group>"; };
 		C94646EF2A2DBE750026A7AB /* sdk_oauth.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = sdk_oauth.bundle; sourceTree = "<group>"; };
@@ -59,6 +49,8 @@
 		C94646F12A2DBE750026A7AB /* EAccountApiSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = EAccountApiSDK.framework; sourceTree = "<group>"; };
 		C94647202A2F0DE80026A7AB /* PlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerView.h; sourceTree = "<group>"; };
 		C94647212A2F0DE80026A7AB /* PlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerView.m; sourceTree = "<group>"; };
+		C946473A2A3067410026A7AB /* QNAuthSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QNAuthSDK.framework; sourceTree = "<group>"; };
+		C946473C2A3067AD0026A7AB /* account_login_sdk_noui_core.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = account_login_sdk_noui_core.framework; sourceTree = "<group>"; };
 		C95EC3DA2A20822A00153AD1 /* LottieLogo2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LottieLogo2.json; sourceTree = "<group>"; };
 		C98D20B42A1B625300D24333 /* QAuth_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QAuth_iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C98D20B72A1B625300D24333 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -100,13 +92,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C946473B2A3067410026A7AB /* QNAuthSDK.framework in Frameworks */,
 				C98D20EC2A1B62DD00D24333 /* CLConsole.framework in Frameworks */,
-				C94647152A2DD01A0026A7AB /* QNAuthSDK.framework in Frameworks */,
 				C94647322A30250F0026A7AB /* EAccountApiSDK.framework in Frameworks */,
 				C94647332A3025200026A7AB /* OAuth.framework in Frameworks */,
 				C94646F32A2DBE750026A7AB /* TYRZUISDK.framework in Frameworks */,
 				C98D21022A1B684D00D24333 /* libc++.tbd in Frameworks */,
 				474B44F828B69BD8F27FD9E0 /* Pods_QAuth_iOS.framework in Frameworks */,
+				C946473D2A3067AD0026A7AB /* account_login_sdk_noui_core.framework in Frameworks */,
 				C98D21002A1B680D00D24333 /* Network.framework in Frameworks */,
 				C94646F22A2DBE750026A7AB /* CL_ShanYanSDK.framework in Frameworks */,
 			);
@@ -134,17 +127,11 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		C94646DD2A2DB0050026A7AB /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				C94646E12A2DB0050026A7AB /* QNAuthSDK.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		C94646EB2A2DBE750026A7AB /* frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				C946473C2A3067AD0026A7AB /* account_login_sdk_noui_core.framework */,
+				C946473A2A3067410026A7AB /* QNAuthSDK.framework */,
 				C94646EC2A2DBE750026A7AB /* CL_ShanYanSDK.framework */,
 				C94646ED2A2DBE750026A7AB /* TYRZUISDK.framework */,
 				C94646EF2A2DBE750026A7AB /* sdk_oauth.bundle */,
@@ -157,7 +144,6 @@
 		C98D20AB2A1B625300D24333 = {
 			isa = PBXGroup;
 			children = (
-				C94646DC2A2DB0050026A7AB /* QNAuthSDK.xcodeproj */,
 				C98D20B62A1B625300D24333 /* QAuth_iOS */,
 				C98D20B52A1B625300D24333 /* Products */,
 				1AF4BE4C1CEC48068281B827 /* Pods */,
@@ -292,28 +278,12 @@
 			mainGroup = C98D20AB2A1B625300D24333;
 			productRefGroup = C98D20B52A1B625300D24333 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = C94646DD2A2DB0050026A7AB /* Products */;
-					ProjectRef = C94646DC2A2DB0050026A7AB /* QNAuthSDK.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				C98D20B32A1B625300D24333 /* QAuth_iOS */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		C94646E12A2DB0050026A7AB /* QNAuthSDK.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = QNAuthSDK.framework;
-			remoteRef = C94646E02A2DB0050026A7AB /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		C98D20B22A1B625300D24333 /* Resources */ = {
@@ -541,6 +511,7 @@
 					"$(PROJECT_DIR)/QAuth_iOS/Vender",
 					"\"$(SRCROOT)/../QNAuthSDK/framework\"",
 					"$(PROJECT_DIR)/QAuth_iOS/framework",
+					"$(PROJECT_DIR)/QAuth_iOS/frameworks",
 				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = QAuth_iOS/Info.plist;
@@ -606,6 +577,7 @@
 					"$(PROJECT_DIR)/QAuth_iOS/Vender",
 					"\"$(SRCROOT)/../QNAuthSDK/framework\"",
 					"$(PROJECT_DIR)/QAuth_iOS/framework",
+					"$(PROJECT_DIR)/QAuth_iOS/frameworks",
 				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = QAuth_iOS/Info.plist;
