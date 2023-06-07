@@ -6,9 +6,7 @@
 
 ## 本地集成
 ### 导入sdk
-下载sdk:[framworks](https://github.com/pili-engineering/QAuth_iOS/tree/main/QAuth_iOS/frameworks
-
-[),导入你的 iOS 工程
+下载sdk:[framworks](https://github.com/pili-engineering/QAuth_iOS/tree/main/QAuth_iOS/frameworks),导入你的 iOS 工程
 
 ## 一键登录api
 
