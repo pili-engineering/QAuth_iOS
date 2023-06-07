@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "47811B27-6205-460D-AB5D-859EAD0B5778"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3604DEFD-B73D-49FB-9F61-AE5B0CBC9C4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QAuth_iOS/ShanYanUIConfigureMaker.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "520"
+            endingLineNumber = "520"
+            landmarkName = "+shanYanUIConfigureMakerStyle1"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3604DEFD-B73D-49FB-9F61-AE5B0CBC9C4F - 6f3c4011725247ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[ShanYanUIConfigureMaker shanYanUIConfigureMakerStyle1]"
+                  moduleName = "QAuth_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keyes/Desktop/%E4%B8%83%E7%89%9B/%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95/QAuth_iOS/QAuth_iOS/ShanYanUIConfigureMaker.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "520"
+                  endingLineNumber = "520"
+                  offsetFromSymbolStart = "7704">
+               </Location>
+               <Location
+                  uuid = "3604DEFD-B73D-49FB-9F61-AE5B0CBC9C4F - 6f3c4011725247ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[ShanYanUIConfigureMaker shanYanUIConfigureMakerStyle1]"
+                  moduleName = "QAuth_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keyes/Desktop/%E4%B8%83%E7%89%9B/%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95/QAuth_iOS/QAuth_iOS/ShanYanUIConfigureMaker.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "520"
+                  endingLineNumber = "520"
+                  offsetFromSymbolStart = "7244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72F98A97-3C6C-4CE8-ABD5-4767BA15ACAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QAuth_iOS/ShanYanGetPhoneNumberDemoCode.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "+mobileLoginWithtoken:completion:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C97CE715-26C9-457A-AADB-B1591FC23F1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QAuth_iOS/ShanYanGetPhoneNumberDemoCode.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "+mobileLoginWithtoken:completion:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C97CE715-26C9-457A-AADB-B1591FC23F1F - 7ca2694fb325f952"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[ShanYanGetPhoneNumberDemoCode mobileLoginWithtoken:completion:]"
+                  moduleName = "QAuth_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keyes/Desktop/%E4%B8%83%E7%89%9B/%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95/QAuth_iOS/QAuth_iOS/ShanYanGetPhoneNumberDemoCode.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "C97CE715-26C9-457A-AADB-B1591FC23F1F - 1ac3f36d43b32749"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__65+[ShanYanGetPhoneNumberDemoCode mobileLoginWithtoken:completion:]_block_invoke"
+                  moduleName = "QAuth_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keyes/Desktop/%E4%B8%83%E7%89%9B/%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95/QAuth_iOS/QAuth_iOS/ShanYanGetPhoneNumberDemoCode.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7ACAA17-7C58-4C15-ADB5-E9048C20FF44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QAuth_iOS/ShanYanGetPhoneNumberDemoCode.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "+mobileLoginWithtoken:completion:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE5F0AEF-2E8F-4C6F-93A7-971E9651F96F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../QNAuthSDK/QNAuthSDK/QNAuthSDKManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "492"
+            endingLineNumber = "492"
+            landmarkName = "+UAFCustomModelForm:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CACF2779-5685-4B8F-BB4E-E18F30841B86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QAuth_iOS/TestViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
+            landmarkName = "-configureMake0"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DE36DC3-FFC5-4A63-AE14-91D115D9607B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QAuth_iOS/PhoneNumberCheck(&#x672c;&#x673a;&#x53f7;&#x6821;&#x9a8c;)/PhoneNumberCheckController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "-phoneNumberCheck:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8DE36DC3-FFC5-4A63-AE14-91D115D9607B - 32c74eca1326182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__47-[PhoneNumberCheckController phoneNumberCheck:]_block_invoke_3"
+                  moduleName = "QAuth_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keyes/Desktop/%E4%B8%83%E7%89%9B/%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95/QAuth_iOS/QAuth_iOS/PhoneNumberCheck(%E6%9C%AC%E6%9C%BA%E5%8F%B7%E6%A0%A1%E9%AA%8C)/PhoneNumberCheckController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "8DE36DC3-FFC5-4A63-AE14-91D115D9607B - 32c74eca1326147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__47-[PhoneNumberCheckController phoneNumberCheck:]_block_invoke_4"
+                  moduleName = "QAuth_iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keyes/Desktop/%E4%B8%83%E7%89%9B/%E4%B8%80%E9%94%AE%E7%99%BB%E5%BD%95/QAuth_iOS/QAuth_iOS/PhoneNumberCheck(%E6%9C%AC%E6%9C%BA%E5%8F%B7%E6%A0%A1%E9%AA%8C)/PhoneNumberCheckController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

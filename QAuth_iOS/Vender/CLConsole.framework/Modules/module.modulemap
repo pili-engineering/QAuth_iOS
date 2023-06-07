@@ -1,0 +1,6 @@
+framework module CLConsole {
+  umbrella header "CLConsole.h"
+
+  export *
+  module * { export * }
+}
