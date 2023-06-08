@@ -1,0 +1,6 @@
+**/Pods/
+**/Podfile.lock
+**/build
+**/Build
+
+**/.DS_Store
