@@ -1,6 +1,0 @@
-framework module Pods_QAuth_iOS {
-  umbrella header "Pods-QAuth_iOS-umbrella.h"
-
-  export *
-  module * { export * }
-}
