@@ -8,9 +8,6 @@
 ### 导入sdk
 下载sdk:[framworks](https://github.com/pili-engineering/QAuth_iOS/tree/main/QAuth_iOS/frameworks),导入你的 iOS 工程
 
-其他依赖： QNAuthSDK 内部依赖 CocoaSecurity 加解密
-pod 'CocoaSecurity'
-
 ## 一键登录api
 
 ### 初始化
