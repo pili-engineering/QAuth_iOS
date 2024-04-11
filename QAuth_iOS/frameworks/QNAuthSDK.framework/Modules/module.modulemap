@@ -1,6 +1,6 @@
 framework module QNAuthSDK {
   umbrella header "QNAuthSDK.h"
-
   export *
+
   module * { export * }
 }
